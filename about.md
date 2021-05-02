@@ -4,7 +4,7 @@ title: About Divark
 permalink: /about/
 ---
 
-My name is Tyler Schmidt. I'm a Systems Programmer who makes utility applications and systems on the side living in the Bay Area. Currently, I'm pursuing a Master's degree from the [Georgia Institute of Technology](https://www.gatech.edu/) specializing in [Computing Systems](https://omscs.gatech.edu/specialization-computing-systems).
+My name is Tyler Schmidt. I'm a Systems Programmer who makes utility applications on the side living in the Bay Area. Currently, I'm pursuing a Master's degree from the [Georgia Institute of Technology](https://www.gatech.edu/) specializing in [Computing Systems](https://omscs.gatech.edu/specialization-computing-systems).
 
 I am the Lead Software Architect of the [Leviathan Logic Engine](https://github.com/Exonoesis/Leviathan-Logic-Engine), a game-creation framework. My contributions involve keeping the framework modular, and stable with the use of automated testing.
 
